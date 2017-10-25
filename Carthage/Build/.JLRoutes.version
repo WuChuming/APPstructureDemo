@@ -1,0 +1,9 @@
+{
+  "commitish" : "2.0.5",
+  "iOS" : [
+    {
+      "hash" : "b063bc50d9c8d52701bd5c4d9c17efb843d79292ee9c5c8df1dc9aa250da6f1c",
+      "name" : "JLRoutes"
+    }
+  ]
+}
